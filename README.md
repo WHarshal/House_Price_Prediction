@@ -20,7 +20,7 @@ The following dependencies are required to run the project:
 - NumPy
 - Pandas
 - Scikit-learn
-- Matplotlib
+- Matplotlib 
 - Seaborn
 - Jupyter Notebook (optional, for running the project in a notebook environment)
 
@@ -37,4 +37,4 @@ The notebooks directory contains the Jupyter Notebook file for the project.
 The README.md file contains information about the project and instructions.
 
 # Contributing
-Contributions to this project are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue
+Contributions to this project are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue 
